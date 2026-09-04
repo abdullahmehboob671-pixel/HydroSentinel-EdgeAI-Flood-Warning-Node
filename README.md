@@ -43,8 +43,10 @@ Monsoon flash floods frequently destroy power grids and cellular infrastructure,
 ## 📂 Repository Structure
 ```text
 ├── Firmware/
-│   ├── Transmitter_EdgeAI_Node/   # Main ESP32-S3 firmware with Edge Impulse runtime
-│   └── Receiver_Gateway_Node/     # LoRa receiver / display node firmware
-├── Model/                         # Quantized C++ model library files
-├── Hardware/                      # Circuit schematics and pinout diagrams
+│   ├── Transmitter_EdgeAI_Node/   # Paste your ESP32-S3 main sketch (.ino) here
+│   └── Receiver_Gateway_Node/     # Paste your LoRa receiver sketch (.ino) here
+├── Model/                         # Upload exported C++ model zip / Edge Impulse headers
+├── Hardware/                      # Upload circuit schematics, pinout diagrams, or photos
+├── .gitignore
+├── LICENSE
 └── README.md
