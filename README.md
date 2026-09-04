@@ -1,6 +1,6 @@
+# HydroSentinel: Off-Grid Edge-AI Early Warning System for Flash Floods
 
 Low-cost, off-grid Edge-AI flood early warning node powered by ESP32-S3, Edge Impulse TinyML, and sub-GHz LoRa radio.
-# HydroSentinel: Off-Grid Edge-AI Early Warning System for Flash Floods
 
 **Project ID:** P00516  
 **Institution:** Ghulam Ishaq Khan Institute of Engineering Sciences and Technology  
