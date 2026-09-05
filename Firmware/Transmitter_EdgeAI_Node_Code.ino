@@ -2,7 +2,7 @@
 #include <LoRa.h>
 #include "DHT.h"
 
-// ⚠️ REPLACE THIS HEADER WITH YOUR ACTUAL EDGE IMPULSE PROJECT HEADER ⚠️
+//  REPLACE THIS HEADER WITH ACTUAL EDGE IMPULSE library that is deployed here in the firmware 
 #include <Flood_Early_Warning_ESP32S3_DHT22_inferencing.h>
 
 // ============================================================================
