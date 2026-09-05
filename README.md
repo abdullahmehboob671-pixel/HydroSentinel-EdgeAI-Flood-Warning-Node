@@ -1,7 +1,7 @@
 # HydroSentinel: Off-Grid Edge-AI Early Warning System for Flash Floods
 
 Low-cost, off-grid Edge-AI flood early warning node powered by ESP32-S3, Edge Impulse TinyML, and sub-GHz LoRa radio.
-
+[Click here to view our Edge Impulse Project](https://studio.edgeimpulse.com/public/1076948/live)
 **Project ID:** P00516  
 **Institution:** Ghulam Ishaq Khan Institute of Engineering Sciences and Technology  
 **Focus Area:** Open Innovation  
@@ -43,10 +43,10 @@ Monsoon flash floods frequently destroy power grids and cellular infrastructure,
 ## 📂 Repository Structure
 ```text
 ├── Firmware/
-│   ├── Transmitter_EdgeAI_Node/   # Paste your ESP32-S3 main sketch (.ino) here
-│   └── Receiver_Gateway_Node/     # Paste your LoRa receiver sketch (.ino) here
-├── Model/                         # Upload exported C++ model zip / Edge Impulse headers
-├── Hardware/                      # Upload circuit schematics, pinout diagrams, or photos
+│   ├── Transmitter_EdgeAI_Node/   # ESP32-S3 main sketch (.ino) here
+│   └── Receiver_Gateway_Node/     # LoRa receiver sketch (.ino) here
+├── Model/                         # Export C++ model zip / Edge Impulse headers
+├── Hardware/                      # Circuit schematics, pinout diagrams, or photos
 ├── .gitignore
 ├── LICENSE
 └── README.md
